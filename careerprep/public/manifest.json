@@ -1,7 +1,7 @@
 {
-  "name": "SPC Campus Connect",
-  "short_name": "CampusConnect",
-  "description": "Events, announcements and campus updates for SPC departments.",
+  "name": "CareerPrep App",
+  "short_name": "CareerPrep",
+  "description": "Resume Builder.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -28,3 +28,4 @@
     }
   ]
 }
+
